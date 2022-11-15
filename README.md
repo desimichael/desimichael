@@ -1,6 +1,6 @@
 ![Desi Steib - Web Developer](https://i.imgur.com/LE9br2m.png)
 
-- 👋 Hi, I’m Desi
+- 👋🏾 Hi, I’m Desi
 - 👀 Take a look at my portfolio https://desisteib.com/
 - :house: I’m currently building skills in Email Development, PHP, and Laravel
 - :school_satchel: I’m looking to collaborate on e-commerce based projects with like-minded people
