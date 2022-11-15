@@ -1,4 +1,4 @@
-![Desi Steib - Web Developer](https://i.imgur.com/QRChil0.png)
+![Desi Steib - Web Developer](https://i.imgur.com/LE9br2m.png)
 
 - 👋 Hi, I’m Desi
 - 👀 Take a look at my portfolio https://desisteib.com/
